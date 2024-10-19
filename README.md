@@ -1,4 +1,4 @@
-**Real-Time Data Processing System for Weather Monitoring with Rollups and Aggregates**
+# Real-Time Data Processing System for Weather Monitoring with Rollups and Aggregates
 
 # Project Overview
 This project is a real-time weather monitoring system that retrieves weather data from the OpenWeatherMap API for six major metros in India (Delhi, Mumbai, Chennai, Bangalore, Kolkata, and Hyderabad). It processes the weather data to calculate daily aggregates like average temperature, maximum and minimum temperatures, and dominant weather conditions. It also supports configurable alert thresholds for extreme weather conditions, such as high temperatures.
