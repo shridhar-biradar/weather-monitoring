@@ -53,6 +53,7 @@ weather-monitoring/
       * matplotlib
 
 3. OpenWeatherMap API Key
+* 
 {
     "api_key": "1a31b13168487fb15df72cd671bfb634",
     "thresholds": {
